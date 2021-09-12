@@ -1,5 +1,4 @@
-# Alumno: ____   _______
-
+# Alumno: Bernardo Flores
 # Circular Array
 - Implementar todas las funciones del array circular en el "circulararray.h"
 - Implementar las clases Stack y Queue heredando desde el Array Circular. 
